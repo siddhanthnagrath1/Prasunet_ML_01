@@ -32,7 +32,7 @@ pip install numpy pandas matplotlib seaborn plotly scipy scikit-learn
 # Usage
 - Clone this repository:
 
-git clone <repository-url>
+git clone https://github.com/siddhanthnagrath1/Prasunet_ML_01
 
 
 
